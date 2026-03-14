@@ -1,8 +1,36 @@
 body{
 font-family: Arial;
-text-align: center;
-background:#f2f2f2;
+margin:0;
+background:#f4f4f4;
 }
-h1{
-color:#333;
+header{
+background:#333;
+color:white;
+text-align:center;
+padding:30px;
+}
+nav{
+background:#555;
+text-align:center;
+padding:10px;
+}
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+}
+section{
+padding:30px;
+}
+.project{
+background:white;
+padding:20px;
+margin:10px 0;
+border-radius:8px;
+}
+footer{
+text-align:center;
+background:#333;
+color:white;
+padding:15px;
 }
